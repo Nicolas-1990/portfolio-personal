@@ -26,7 +26,7 @@ Google Fonts
 ![Home](assets/screenshots/portfolio/portfolio-home.png)
 
 ### Proyectos
-![Projects](assets/screenshots/portfolio/portfolio-projets.png)
+![Projects](assets/screenshots/portfolio/portfolio-projects.png)
 
 ### Certificados
 ![Certificates](assets/screenshots/portfolio/portfolio-certificates.png)
@@ -63,7 +63,7 @@ style.css
 ```
 
 ## 🌐 Demo
-[Enlace al proyecto desplegado]
+🔗 (https://portfolio-personal-60ko.onrender.com)
 
 ## 👨‍💻 Autor
 Nicolas Garcia
